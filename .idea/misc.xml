@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/about_photo.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/chat_edit_text.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/chat_send_button.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_baseline_arrow_right_24.xml" value="0.195" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.195" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/ic_send_button.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/drawable/receiver_chat.xml" value="0.1815" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_about_section.xml" value="0.2" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_chat_and_grp_creation.xml" value="0.136" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_chats_page.xml" value="0.1" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_otp_verification.xml" value="0.72" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_sign_up.xml" value="0.136" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/activity_splash_acitivity.xml" value="0.25" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/sender_sample.xml" value="0.20521590423257802" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/temp.xml" value="0.25" />
+        <entry key="..\:/WhatsAppClone/app/src/main/res/layout/user_sample_source.xml" value="0.264" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/chat_edit_text.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/chat_send_button.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/ic_send_button.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/receiver_chat.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/drawable/sender_chat.xml" value="0.1815" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_about_section.xml" value="0.152" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_chats_page.xml" value="0.536" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_otp_verification.xml" value="0.264" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_proflie_pic_about.xml" value="0.25" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/activity_splash_acitivity.xml" value="0.25" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/fragment_calls_fragments.xml" value="0.264" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/fragment_chats.xml" value="0.264" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/fragment_status_fragments.xml" value="0.25" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/reciever_sample.xml" value="0.264" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/sender_sample.xml" value="0.2" />
+        <entry key="..\:/learning app/firebase/WhatsAppClone2/app/src/main/res/layout/user_sample_source.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
